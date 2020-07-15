@@ -1,0 +1,230 @@
+LocationCode,LocationName,Province,City,isActive
+7248,Cineplex Odeon Ajax ,ON,Ajax,TRUE
+7415,SilverCity Ancaster ,ON,Ancaster,TRUE
+7284,Cineplex Odeon Aurora ,ON,Aurora,TRUE
+7286,Cineplex Odeon Barrhaven ,ON,Barrhaven,TRUE
+7249,Galaxy Cinemas Barrie,ON,Barrie,TRUE
+9181,Cineplex Odeon Beauport ,QC,Beauport,TRUE
+7409,Famous Players Belleville 8 ,ON,Belleville,TRUE
+9112,Odeon Boucherville Drive-In,QC,Boucherville,TRUE
+9203,Cineplex Odeon Boucherville,QC,Boucherville,TRUE
+7412,Famous Players Gateway 6 ,ON,Brampton,TRUE
+7250,Cineplex Odeon Orion Gate ,ON,Brampton,TRUE
+7411,SilverCity Brampton ,ON,Brampton,TRUE
+7100,Cineplex Odeon Brantford ,ON,Brantford,TRUE
+7283,Galaxy Cinemas Brockville,ON,Brockville,TRUE
+9185,Cineplex Odeon Brossard ,QC,Brossard,TRUE
+7413,SilverCity Burlington ,ON,Burlington,TRUE
+1408,SilverCity Metropolis ,BC,Burnaby,TRUE
+1406,Famous Players Station Square ,BC,Burnaby,TRUE
+3138,Cineplex Odeon Crowfoot Crossing ,AB,Calgary,TRUE
+3134,Cineplex Odeon Eau Claire Market Cinemas,AB,Calgary,TRUE
+3401,Scotiabank Theatre Chinook,AB,Calgary,TRUE
+3142,Cineplex Odeon Sunridge Spectrum ,AB,Calgary,TRUE
+3409,Famous Players Westhills 10 ,AB,Calgary,TRUE
+7269,Galaxy Cinemas Cambridge,ON,Cambridge,TRUE
+9175,Cineplex Odeon Châteauguay Encore Cinemas,QC,Chateauguay,FALSE
+7241,Cineplex Odeon Clarington Place ,ON,Clarington,TRUE
+1411,Famous Players Eagle Ridge ,BC,Coquitlam,FALSE
+7262,Galaxy Cinemas Cornwall,ON,Cornwall,TRUE
+9174,Cineplex Odeon Delson ,QC,Delson,FALSE
+9173,Cineplex Odeon Dorion ,QC,Dorion,FALSE
+3143,Cineplex Odeon North Edmonton Cinemas,AB,Edmonton,TRUE
+3403,Scotiabank Theatre West Edmonton Mall,AB,Edmonton,TRUE
+3144,Cineplex Odeon South Edmonton ,AB,Edmonton,TRUE
+3116,Cineplex Odeon West Mall 8 ,AB,Edmonton,TRUE
+7260,Cineplex Odeon Queensway ,ON,Etobicoke,TRUE
+9171,Gatineau 9,QC,Gatineau,TRUE
+7428,SilverCity Gloucester ,ON,Gloucester,TRUE
+3141,Cineplex Odeon Grande Prairie ,AB,Grande Prairie,TRUE
+7272,Galaxy Cinemas Guelph,ON,Guelph,TRUE
+7238,Cineplex Odeon Upper James ,ON,Hamilton,TRUE
+1137,Cineplex Odeon Aberdeen Mall ,BC,Kamloops,TRUE
+1410,Famous Players Orchard Plaza 5 ,BC,Kelowna,TRUE
+7259,Cineplex Odeon Gardiners Road ,ON,Kingston,TRUE
+9407,Colisée Kirkland ,QC,Kirkland,TRUE
+7127,Cineplex Odeon Fairway Centre ,ON,Kitchener,TRUE
+9145,Cineplex Odeon Place LaSalle ,QC,La Salle,TRUE
+1405,Colossus Langley ,BC,Langley,TRUE
+9408,Colossus Laval ,QC,Laval,TRUE
+3101,Galaxy Cinemas Lethbridge,AB,Lethbridge,TRUE
+7133,Cineplex Odeon Huron Market Place ,ON,London,TRUE
+7422,SilverCity London ,ON,London,TRUE
+7245,Cineplex Odeon Westmount 6 ,ON,London,FALSE
+7244,Cineplex Odeon First Markham Place ,ON,Markham,TRUE
+3140,Galaxy Cinemas Medicine Hat,AB,Medicine Hat,TRUE
+7271,Galaxy Cinemas Midland,ON,Midland,TRUE
+7285,Galaxy Cinemas Milton,ON,Milton,TRUE
+1407,SilverCity Mission ,BC,Mission,TRUE
+7420,Coliseum Mississauga ,ON,Mississauga,TRUE
+7417,SilverCity Mississauga ,ON,Mississauga,TRUE
+9172,Cineplex Odeon Quartier Latin ,QC,Montreal,TRUE
+9406,Cinemas Banque Scotia Montreal,QC,Montreal,TRUE
+9401,StarCité Montréal,QC,Montréal,TRUE
+9402,Versailles Cinemas,QC,Montreal,FALSE
+4113,Galaxy Cinemas Moose Jaw,SK,Moose Jaw,TRUE
+1141,Galaxy Cinemas Nanaimo,BC,Nanaimo,TRUE
+7407,SilverCity Newmarket,ON,Newmarket,TRUE
+7256,Cineplex Odeon Niagara Square ,ON,Niagara Falls,TRUE
+7265,Galaxy Cinemas North Bay,ON,North Bay,TRUE
+7270,Galaxy Cinemas Orangeville,ON,Orangeville,TRUE
+7274,Galaxy Cinemas Orillia,ON,Orillia,TRUE
+7289,Cineplex Odeon Oshawa ,ON,Oshawa,TRUE
+7423,Famous Players Oshawa Centre 8 ,ON,Oshawa,FALSE
+7424,Coliseum Ottawa ,ON,Ottawa,TRUE
+7247,Cineplex Odeon South Keys ,ON,Ottawa,TRUE
+7264,Galaxy Cinemas Owen Sound,ON,Owen Sound,TRUE
+7263,Galaxy Cinemas Peterborough,ON,Peterborough,TRUE
+7410,Famous Players Pickering 8 ,ON,Pickering,TRUE
+1142,Cineplex Odeon Meadowtown Centre Cinemas,BC,Pitt Meadows,TRUE
+1412,SilverCity Coquitlam ,BC,Port Coquitlam,TRUE
+4112,Galaxy Cinemas Prince Albert,SK,Prince Albert,TRUE
+1415,Famous Players 6 Prince George,BC,Prince George,TRUE
+1414,Famous Players Prince Rupert ,BC,Prince Rupert,TRUE
+9130,Cineplex Odeon Place Charest ,QC,Quebec City,FALSE
+3408,Famous Players Park Plaza ,AB,Red Deer,FALSE
+4114,Galaxy Cinemas Regina,SK,Regina,TRUE
+4108,Cineplex Odeon Southland Mall ,SK,Regina,TRUE
+1400,Famous Players Richmond Centre 6 ,BC,Richmond,FALSE
+1409,SilverCity Riverport ,BC,Richmond,TRUE
+7405,SilverCity Richmond Hill ,ON,Richmond Hill,TRUE
+9188,Galaxy Sherbrooke,QC,Sherbrooke,TRUE
+9166,Cineplex Odeon St. Nicolas Drive-In,QC,Saint Nicolas,FALSE
+7427,Famous Players Lambton 9 ,ON,Sarnia,TRUE
+4109,Cineplex Odeon Centre ,SK,Saskatoon,TRUE
+4403,Galaxy Cinemas Saskatoon,SK,Saskatoon,TRUE
+7266,Galaxy Cinemas Sault Ste Marie,ON,Sault Ste. Mari,TRUE
+7404,Coliseum Scarborough ,ON,Scarborough,TRUE
+7253,Cineplex Odeon Eglinton Town Centre Cinemas,ON,Scarborough,TRUE
+7240,Cineplex Odeon Morningside ,ON,Scarborough,TRUE
+3146,Galaxy Cinemas Sherwood Park ,AB,Sherwood Park,TRUE
+9143,Cineplex Odeon St. Bruno ,QC,St. Bruno,TRUE
+7236,Fairview Mall Cinemas,ON,St. Catharines,FALSE
+9177,Cineplex Odeon Ste.Foy ,QC,Ste. Foy,TRUE
+9190,Capitol Cinemas St. Jean,QC,St. Jean,TRUE
+7267,Galaxy Cinemas St. Thomas,ON,St. Thomas,TRUE
+7429,SilverCity Sudbury ,ON,Sudbury,TRUE
+1136,Cineplex Odeon Strawberry Hill ,BC,Surrey,TRUE
+7430,SilverCity Thunder Bay ,ON,Thunder Bay,TRUE
+7403,Famous Players Canada Square,ON,Toronto,TRUE
+7105,Cineplex Odeon Carlton ,ON,Toronto,TRUE
+7246,Cineplex Odeon Sheppard Grande ,ON,Toronto,TRUE
+7402,Scotiabank Theatre Toronto,ON,Toronto,TRUE
+7400,SilverCity Yonge-Eglinton ,ON,Toronto,TRUE
+7406,SilverCity Yorkdale ,ON,Toronto,TRUE
+7199,Cineplex Odeon Varsity ,ON,Toronto,TRUE
+9189,Galaxy Fleur de Lys,QC,Trois-Rivières,FALSE
+1422,Scotiabank Theatre Vancouver,BC,Vancouver,TRUE
+1103,Cineplex Odeon Park & Tilford ,BC,Vancouver,TRUE
+7408,Colossus Vaughan ,ON,Vaughan,TRUE
+1413,Famous Players 7 Vernon,BC,Vernon,TRUE
+1129,Cineplex Odeon Victoria,BC,Victoria,TRUE
+1417,SilverCity Victoria Cinemas,BC,Victoria,TRUE
+9186,Galaxy Cinemas Victoriaville,QC,Victoriaville,TRUE
+7268,Galaxy Cinemas Waterloo,ON,Waterloo,TRUE
+7206,Cineplex Odeon Seaway Mall ,ON,Welland,TRUE
+7257,Cineplex Odeon Devonshire Mall ,ON,Windsor,TRUE
+7431,SilverCity Windsor ,ON,Windsor,TRUE
+2400,Famous Players Garden City ,MB,Winnipeg,TRUE
+2403,Famous Players Kildonan Place ,MB,Winnipeg,TRUE
+2103,Odeon Drive-In,MB,Winnipeg,FALSE
+2401,Scotiabank Theatre Winnipeg,MB,Winnipeg,TRUE
+2402,SilverCity St. Vital ,MB,Winnipeg,TRUE
+3634,Eau Claire Cinescape,AB,Prairies,FALSE
+9998,Cineplex Head Office,ON,Toronto,FALSE
+0,Unknown Cineplex Location,-,Toronto,FALSE
+7288,Galaxy Cinemas Collingwood,ON,Collingwood,TRUE
+7273,SilverCity Oakville,ON,Oakville,TRUE
+9155,Cineplex Odeon Châteauguay Encore Cinemas,QC,Chateauguay,TRUE
+9154,Cineplex Odeon Delson ,QC,Delson,TRUE
+9153,Cineplex Odeon Dorion ,QC,Dorion,TRUE
+3132,Galaxy Cinemas Red Deer,AB,Red Deer,TRUE
+7811,Cineplex.com # 7811,-,Online,FALSE
+2112,Cinema City Northgate,MB,Winnipeg,TRUE
+2111,Cineplex Odeon McGillivray and VIP Cinemas,MB,Winnipeg,TRUE
+3147,Cinema City Movies 12 Edmonton,AB,Edmonton,TRUE
+7291,Galaxy Brantford,ON,Brantford,TRUE
+7115,SilverCity Fairview,ON,Toronto,TRUE
+7290,Silvercity Hamilton,ON,Stoney Creek,TRUE
+7814,Cineplex.com Store,-,Online,FALSE
+7112,Cineplex Odeon Westmount 6 ,ON,London,TRUE
+9997,Scotiabank,ON,Toronto,FALSE
+9999,Scene,ON,Toronto,FALSE
+9195,Famous Players Carrefour Angrignon,QC,LaSalle,TRUE
+8030,Cineplex #8030 Web QPS,ON,Cineplex #8030 Web QPS,FALSE
+9267,Cineplex Cavendish Mall,QC,Cote St. Luc,TRUE
+9268,Starcité Gatineau,QC,Gatineau,TRUE
+9996,CARA,ON,Toronto,FALSE
+3135,Famous Players CrossIron Mills,AB,CrossIron Mills,TRUE
+7207,Famous Players Chatham,ON,Chatham,TRUE
+3150,SilverCity CrossIron Mills & Xscape,AB,Calgary,TRUE
+1147,International Village,BC,Vancouver,TRUE
+9168,Starcité Gatineau,QC,Gatineau,FALSE
+1144,Galaxy Cinemas Chillwack,BC,Chillwack,TRUE
+9995,Cineplex IPO,ON,Cineplex IPO,FALSE
+1146,Westshore Langford,BC,Langford,FALSE
+7295,Cineplex Cumberland,ON,Toronto,TRUE
+7297,Chatham,ON,Toronto,TRUE
+3149,Cineplex Odeon Windermere,AB,Cineplex Odeon Windermere,TRUE
+7122,CI - AMC Courtney Park 16,ON,Mississauga,TRUE
+7123,CI - AMC Winston Churchill 24,ON,Oakville,TRUE
+7129,CI - AMC Yonge and Dundas 24,ON,Toronto,TRUE
+9109,Cineplex Odeon Forum Cinemas,QC,Montréal,TRUE
+7130,Cineplex Yonge and Dundas 24,ON,Toronto,TRUE
+7117,Galaxy Pergola South Guelph,ON,Galaxy Pergola South Guelph,TRUE
+99995,New Cineplex #09995,-,-,FALSE
+1150,The Park Theatre,BC,Vancouver,TRUE
+1149,Fifth Avenue Cinemas,BC,Vancouver,TRUE
+7298,Cineplex Cinemas Empress Walk,ON,Toronto,TRUE
+7138,Galaxy Cinemas Sarnia,ON,Sarnia,TRUE
+6106,Rothesay,NB,Rothesay,TRUE
+6107,Saint John,NB,St. John,TRUE
+6109,Trinity,NB,Moncton,TRUE
+6110,Dieppe,NB,Dieppe,TRUE
+6111,Fredericton ,NB,Fredericton,TRUE
+6112,Miramichi,NB,Miramichi,TRUE
+8122,Mount Pearl,NL,St. John's,TRUE
+8124,Millbrook,NL,Cornerbrook,TRUE
+8126,Avalon Mall,NL,St. John's,TRUE
+8101,Torbay New Build,ON,Toronto,TRUE
+5103,Sydney,NS,Sydney,TRUE
+5104,Bridgewater,NS,Bridgewater,TRUE
+5114,New Glasgow,NS,New Glasgow,TRUE
+5118,Oxford,NS,Halifax,TRUE
+5119,Lower Sackville,NS,Lower Sackville,TRUE
+5130,Scotiabank Theatre Halifax,NS,Halifax,TRUE
+5132,New Minas,NS,New Minas,TRUE
+5133,Antigonish,NS,Antigonish,TRUE
+5134,Yarmouth,NS,Yarmouth,TRUE
+5140,Truro,NS,Truro,TRUE
+5141,Amherst,NS,Amherst,TRUE
+5143,Park Lane,NS,Halifax,TRUE
+5145,Dartmouth Crossing,NS,Dartmouth,TRUE
+7303,Kanata,ON,Kanata,TRUE
+7310,Whitby,ON,Whitby,TRUE
+6160,Summerside,PE,Summerside,TRUE
+6161,Charlottetown,PE,West Royalty,TRUE
+1148,Cineplex Odeon Abbotsford and VIP Cinemas,BC,Abbotsford,TRUE
+3151,Cineplex Cinemas Manning Town Centre,AB,Edmonton,TRUE
+10002,New Cineplex #10002,-,-,FALSE
+7807,Cineplex Media,ON,Toronto,TRUE
+8015,Cineplex Digital Media,ON,Toronto,TRUE
+7304,Bayfiled Cinemas,ON,Barrie,TRUE
+7293,AAC Beaches,ON,Toronto,TRUE
+7139,Cineplex Cinemas Don Mills VIP,ON,Toronto,TRUE
+10001,New Cineplex #10001,-,-,FALSE
+10004,New Cineplex #10004,-,-,FALSE
+7213,CPX Markham VIP,ON,Markham,TRUE
+7311,Cineplex Cinemas Landsdowne VIP,ON,Ottawa,TRUE
+9196,Cinéma Cineplex IMAX aux Galeries de la Capitale,QC,Quebec City,TRUE
+10005,New Cineplex #10005,-,-,FALSE
+1145,Cineplex Cinemas Marine Gateway and VIP,BC,Vancouver,TRUE
+7001,New Cineplex #07001,-,-,FALSE
+3001,Cineplex Rec Room Edmonton,AB,Edmonton,TRUE
+10006,New Cineplex #10006,-,-,FALSE
+7135,Cineplex Cinemas North Barrie,ON,Barrie,TRUE
+7296,CPX Cinemas Kitchener and VIP,ON,Kitchener,TRUE
+1157,Cineplex Cinemas Esplanade,BC,North Vancouver,TRUE
+10007,New Cineplex #10007,-,-,FALSE
+10008,New Cineplex #10008,-,-,FALSE
+3103,Cineplex Cinemas Seton & VIP,AB,Calgary,TRUE
