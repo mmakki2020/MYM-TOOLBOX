@@ -1,4 +1,0 @@
-ActivityStatusScotiaScene,ActivityStatusText,Text,isActive,Description
-0,Unconfirmed,Unconfirmed,TRUE,Neutral State where evaluation hasn't been done
-1,Active,Active,TRUE,Active where there is activity on the scene card other than credit card purchases for points
-2,Dorment,Dorment,TRUE,Dorment where there was no activity other than credit card earning of points (>2 years no BC activity)
